@@ -5,4 +5,5 @@
 */*.aux
 */*.tex
 */*.out
+output
 .vscode
